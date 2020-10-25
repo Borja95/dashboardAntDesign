@@ -1,0 +1,35 @@
+body{
+  background-color: black;
+}
+
+.contenedor{
+  padding: 0px 30px 30px 30px;
+}
+
+.cardsContenedor{
+  text-align: center;
+ 
+}
+
+.ant-statistic-title{
+  color: white;
+}
+
+.cardsContenido{
+  padding: 20px 0px 20px 0px;
+  background-color: #1F263C;
+}
+
+.cardsEstadisticas{
+  text-align: center;
+  background-color: red;
+  padding: 20px 0px 20px 0px;
+}
+
+@media (max-width: 992px) {
+  .cardsContenedor{
+    padding-bottom: 15px;
+  }
+}
+
+
